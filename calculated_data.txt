@@ -1,0 +1,38 @@
+Average Playcount for Top Tracks: 11778597.50
+Average Playcount for Top Artists: 252965936.95
+
+Taylor Swift's Top Tracks Playcount Breakdown:
+aUgUSt: 43.55%
+Now That We Don't Talk (Taylor's Version) (From The Vault): 17.51%
+Fortnight (feat. Post Malone): 6.67%
+Down Bad: 5.12%
+I Can Do It With a Broken Heart: 5.02%
+So Long, London: 4.73%
+Guilty as Sin?: 4.63%
+My Boy Only Breaks His Favorite Toys: 4.41%
+The Tortured Poets Department: 4.20%
+Florida!!! (feat. Florence + the Machine): 4.16%
+
+Average Playcount vs Average Listeners for Top 10 Artists:
+SZA: Average Playcount - 28139187.00, Average Listeners - 1423206.00
+Arctic Monkeys: Average Playcount - 27491000.33, Average Listeners - 1832003.33
+Frank Ocean: Average Playcount - 26504120.67, Average Listeners - 1346758.33
+Mitski: Average Playcount - 23287595.00, Average Listeners - 1157303.00
+Kanye West: Average Playcount - 21248597.75, Average Listeners - 1516856.75
+The Weeknd: Average Playcount - 20748226.00, Average Listeners - 1548760.00
+Steve Lacy: Average Playcount - 18451463.00, Average Listeners - 1168677.50
+Lana Del Rey: Average Playcount - 17645752.00, Average Listeners - 1226442.50
+pinkpantheress: Average Playcount - 17137403.00, Average Listeners - 1018206.00
+Britney Spears: Average Playcount - 16920025.00, Average Listeners - 2026928.00
+Average Salary: 17817653.30
+Average Weight: 219.32
+Average Height: 78.13
+Average Experience: 10.34
+Average Depth Chart Order: 1.66
+Correlation between Salary and Experience: 0.22
+
+Average Rating for IMDB: 3.14
+Average Rating for Rotten Tomatoes: 2.44
+Average Rating for Metacritic: 1.90
+ Percent of Ratings Above Two for IMDB: 91.00
+ Percent of Ratings Above Two for Metacritic: 52.00
